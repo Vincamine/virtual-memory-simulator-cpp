@@ -1,7 +1,7 @@
-# virtual-memory-system-with-simulator-cpp
+# virtual-memory-simulator-cpp
 
 ## Overview
-This project is a **Virtual Memory System Simulator** written in C/C++. The simulator models the functionality of a virtual memory system, including address translation, page fault handling, and page replacement. The project completes missing components in the provided simulator, implementing:
+The simulator models the functionality of a virtual memory system, including address translation, page fault handling, and page replacement. The project completes missing components in the provided simulator, implementing:
 
 1. **Splitting Virtual Addresses** – Extracting VPN (Virtual Page Number) and Offset.
 2. **Address Translation** – Mapping virtual addresses to physical addresses using a page table.
